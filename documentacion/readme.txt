@@ -11,3 +11,8 @@ Comandos de git
 	git push https://github.com/neozerosv/isdemsys.git
   Ver el estado y nombre de la rama
 	git status
+
+
+Referencias:
+  http://nvie.com/posts/a-successful-git-branching-model/
+
