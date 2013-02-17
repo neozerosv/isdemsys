@@ -9,3 +9,5 @@ Comandos de git
 	git commit -m 'Mensaje de cambios'
   Subir cambio\
 	git push https://github.com/neozerosv/isdemsys.git
+  Ver el estado y nombre de la rama
+	git status
